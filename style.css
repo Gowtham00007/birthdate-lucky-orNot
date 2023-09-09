@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Nabla&display=swap');
+
+body{
+    letter-spacing: 0.5rem;
+background-color: black;
+font-family: 'Nabla', cursive;
+    text-align: center;
+}
+
+.block1{
+    margin: 2rem;
+}
+#check-number{
+    letter-spacing: 0.2rem;
+    font-family: nabla;
+    font-size: large;
+    font-weight: bolder;
+    padding: 0.4rem;
+    background-color:#CB0F00;
+    color: #ED9400;
+    border-radius: 0.5rem;
+}
+#date-of-birth{
+    color:#ED9400;
+}
+#lucky-number{
+    color: #CB0F00;
+}
+
+#output-box{
+    margin: 2rem;
+    font-size: x-large;
+}
