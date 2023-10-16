@@ -34,3 +34,32 @@ font-family: 'Nabla', cursive;
 h3{
     margin: 4rem;
 }
+
+.footer{
+   
+    text-align:center ;
+    padding-top: 1rem;
+    color: var(--primery-color);
+    background-color: var(--secandary-color);
+    padding: 1rem;
+} 
+.footer .link {
+    font-size: large;
+    padding: 0.5rem;
+    color:var(--primery-color);
+ }
+ #footer-hedder {
+    font-size:40px;
+} 
+.footer ul{
+    padding-inline-start: 0px;
+}
+
+
+
+
+.list-item-inline{
+    display: inline;
+    padding-inline-start: 0px;
+    padding: 0rem 0.3rem;
+}
